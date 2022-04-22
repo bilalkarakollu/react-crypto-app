@@ -1,10 +1,11 @@
-import React from 'react'
+import { Container } from '@chakra-ui/react'
+import CoinTable from './components/CoinTable'
 
 const App = () => {
   return (
-    <div>
-      sss
-    </div>
+    <Container maxW={'container.xl'}>
+      <CoinTable/>
+    </Container>
   )
 }
 
