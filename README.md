@@ -1,17 +1,17 @@
-# Covid-19 Tracker
+# React Crypto App
 
-# [DEMO](https://react-covid-tracker-exto92bke-bilalkarakollu.vercel.app/)
+# [DEMO](https://react-crypto-app-seven.vercel.app/)
 
 <p dir="auto">
     <img align="left" width="50px" style="max-width: 100%;"
              src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
              alt="react">
  <img align="left" width="50px" style="max-width: 100%;"
-             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"
-             alt="react-redux">
- <img align="left" width="50px" style="max-width: 100%;"
              src="https://avatars.githubusercontent.com/u/54212428?s=200&v=4"
              alt="chakra-ui">
+             <img align="left" width="50px" style="max-width: 100%;"
+             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"
+             alt="typescript">
     <img align="left" width="50px" style="max-width: 100%;"
              src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
              alt="javascript">
@@ -35,9 +35,14 @@
 ## Topics
 
 - React
-- Redux Toolkit
 - Chakra UI
-- Chart.js
+- Typescript
+- axios
+- useState
+- useEffect
+- React.memo
+- useCallback
+
 
 ## Author
 
